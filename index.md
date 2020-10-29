@@ -7,6 +7,8 @@
 *   [kangsu.dev@gmail.com](mailto:kangsu.dev@gmail.com)
 *   ☎ 010-9031-6534
 
+# Skills
+
 많은 경험이 있고 실무에서 충분히 사용한 경우 Expert, 어느 정도의 경험과 활용도가 있는 경우 Intermediate, 관심을 가지고 접해본 단계를 Beginner로 구분하였습니다.
 
 Languages
@@ -39,7 +41,7 @@ Other Technologies
 *   2012.03 ~ 2015.01 케이에스아이(주)
 *   2015.04 ~ 2015.08 게임코치
 *   2016.12 ~ 2019.02 스마일게이트 스토브
-*   2019.02 ~ 프리랜서 활동 중
+*   2019.03 ~ 프리랜서 활동 중
 
 # Projects
 
